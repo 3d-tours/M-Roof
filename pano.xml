@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node13">
+  <panorama id="node13">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/12/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:12:19"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node14}" title="" pan="-47.85" skinid="ht_node" tilt="3.08"/>
+      <hotspot target="" id="Point02" description="" url="{node3}" title="" pan="123.75" skinid="ht_node" tilt="17.06"/>
+      <hotspot target="" id="Point03" description="" url="{node4}" title="" pan="138.37" skinid="ht_node" tilt="14.51"/>
+      <hotspot target="" id="Point04" description="" url="{node5}" title="" pan="-173.58" skinid="ht_node" tilt="14.94"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="0.400" width="1500" levelingpitch="0" overlap="1" leveltileurl="tiles/2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1500" levelingroll="0">
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:07 06:21:13"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="0/0/70" id="Point02" description="" url="{node3}" title="" pan="-124.32" skinid="ht_node" tilt="18.35"/>
+      <hotspot target="" id="Point03" description="" url="{node4}" title="" pan="-138.87" skinid="ht_node" tilt="20.14"/>
+      <hotspot target="" id="Point04" description="" url="{node5}" title="" pan="-39.88" skinid="ht_node" tilt="19.07"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:07 07:48:34"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point02" description="" url="" title="" pan="-20.61" skinid="ht_node" tilt="47.54"/>
+      <hotspot target="" id="Point01" description="" url="{node13}" title="" pan="-1.42" skinid="ht_node" tilt="17.15"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/4/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:07 09:02:16"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point02" description="" url="{node5}" title="" pan="-49.95" skinid="ht_node" tilt="35.3"/>
+      <hotspot target="" id="Point01" description="" url="{node13}" title="" pan="11.64" skinid="ht_node" tilt="18.85"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input cylinder="1" levelbiashidpi="0.400" width="2284" levelingpitch="0" overlap="1" leveltileurl="tiles/5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" flat="1" height="1976" levelingroll="0">
+      <level preload="0" predecode="0" width="2284" height="1976"/>
+      <level preload="0" predecode="0" width="1142" height="988"/>
+      <level preload="0" predecode="0" width="571" height="494"/>
+      <level preload="1" predecode="1" width="285" height="247"/>
+      <preview color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:07 09:23:57"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point02" description="" url="{node2}" title="" pan="-32.59" skinid="ht_node" tilt="0.98"/>
+      <hotspot target="" id="Point03" description="" url="{node3}" title="" pan="35.84" skinid="ht_node" tilt="4.16"/>
+      <hotspot target="" id="Point04" description="" url="{node4}" title="" pan="42.12" skinid="ht_node" tilt="-32.12"/>
+      <hotspot target="" id="Point01" description="" url="{node13}" title="" pan="-25.21" skinid="ht_node" tilt="23.91"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node14">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/13/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:11:46"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node15}" title="" pan="81.41" skinid="ht_node" tilt="-8"/>
+      <hotspot target="" id="Point02" description="" url="{node13}" title="" pan="-84.89" skinid="ht_node" tilt="-2.71"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/14/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:11:30"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node13}" title="" pan="88.58" skinid="ht_node" tilt="-0.86"/>
+      <hotspot target="" id="Point02" description="" url="{node14}" title="" pan="82.41" skinid="ht_node" tilt="-7.11"/>
+      <hotspot target="" id="Point03" description="" url="{node16}" title="" pan="59.08" skinid="ht_node" tilt="6.62"/>
+      <hotspot target="" id="Point04" description="" url="{node18}" title="" pan="76.51" skinid="ht_node" tilt="0.7"/>
+      <hotspot target="" id="Point05" description="" url="{node19}" title="" pan="72.4" skinid="ht_node" tilt="0.66"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/15/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:02:39"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node15}" title="" pan="-176.43" skinid="ht_node" tilt="13.46"/>
+      <hotspot target="" id="Point02" description="" url="{node17}" title="" pan="-68.09" skinid="ht_node" tilt="9.26"/>
+      <hotspot target="" id="Point03" description="" url="{node20}" title="" pan="64.45" skinid="ht_node" tilt="-3.75"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/16/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:04:20"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node16}" title="" pan="99.37" skinid="ht_node" tilt="8.11"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/17/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:01:40"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node15}" title="" pan="-165.92" skinid="ht_node" tilt="7.68"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/18/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 08:55:06"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node15}" title="" pan="172.64" skinid="ht_node" tilt="-1.11"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+  <panorama id="node20">
+    <input levelbiashidpi="0.400" width="1250" levelingpitch="0" overlap="1" leveltileurl="tiles/19/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbias="0.400" height="1250" levelingroll="0">
+      <level preload="0" predecode="0" width="1250" height="1250"/>
+      <level preload="0" predecode="0" width="625" height="625"/>
+      <level preload="1" predecode="1" width="312" height="312"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start fov="70" pan="0" tilt="0"/>
+      <min fov="5" pan="0" tilt="-90"/>
+      <max fov="120" pan="360" tilt="90"/>
+    </view>
+    <userdata author="" latitude="" description="" longitude="" copyright="" source="" tags="3д тур" title="" info="" comment="" datetime="2023:07:21 09:14:28"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label borderalpha="1" borderradius="1" bordercolor="0x000000" wordwrap="1" border="1" width="180" backgroundcolor="0xffffff" background="1" enabled="1" textalpha="1" backgroundalpha="1" height="20" textcolor="0x000000"/>
+      <polystyle borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627"/>
+      <hotspot target="" id="Point01" description="" url="{node16}" title="" pan="-94.94" skinid="ht_node" tilt="6.25"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomspeed="2" zoomin="0" zoomout="0" zoomfov="20" zoomoutpause="1" enabled="0" softedge="0" blendcolor="0x000000" blendtime="1"/>
+    <control lockedkeyboardzoom="0" contextfullscreen="0" invertwheel="1" lockedmouse="0" speedwheel="1" lockedwheel="0" lockedkeyboard="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" invertcontrol="1" hideabout="0"/>
+  </panorama>
+</tour>
